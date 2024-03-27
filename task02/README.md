@@ -45,3 +45,5 @@ Lambda feature overview.
 2. action 2
 ...
 
+https://github.com/epam/aws-syndicate/tree/master/examples/java
+
