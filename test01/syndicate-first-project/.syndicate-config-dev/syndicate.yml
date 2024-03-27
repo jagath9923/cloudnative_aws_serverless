@@ -1,0 +1,13 @@
+account_id: '196241772369'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-sbox01/cae02ce1
+expiration: 2024-03-27 08:07:55.533698+00:00
+extended_prefix_mode: true
+iam_permissions_boundary: arn:aws:iam::196241772369:policy/eo_role_boundary
+project_path: C:\python\aws_projects\synsicate-first-project
+region: eu-central-1
+resources_prefix: cmtr-cae02ce1-
+resources_suffix: -test
+temp_aws_access_key_id: ASIAS3MHLZ5IVQ27ZR4U
+temp_aws_secret_access_key: d91MM9sjp/PNI42drI/qpPuroTx9cVDTjXjYt4+v
+temp_aws_session_token: IQoJb3JpZ2luX2VjEKD//////////wEaCXVzLWVhc3QtMSJHMEUCIDWEbgJHNbYMxpJWWqowtE0T8LRBeBwT1uja6cJahKL5AiEAxYq4Mb1Ug3rWqVQjqcBw8Lbw57AHZ6UsAIdNyC+gh/sq6AIIuP//////////ARAAGgwxOTYyNDE3NzIzNjkiDIWoLr8Li749q67P6Sq8AtK+lLz3PFc5KpQkUZi6mYBs/8rdRY/aWhrF/a1LPGaPVCbiD5O3THngigLwZeP7R0nfWgONGHjcomAkXDFQpU7wCmk3XBwd/YcQ8sItdEHfkuOqC2yDNhA+zUP7p1U+/D+U6AVGiI9pthUf1AyE3c689W/w91DRXQKsrErj2oZv6xqSKGzb+XNSCW8ICx1dTnOwFhKJLsxg5xSwXZLc1yfNqxjD/YuFzuWbPT2vOTD4fDHfoApkzlhzNwizTbkR7huXeiwUkzKKfUsud3E0TZmBNulaz3gfcGbQSHbuemeatgg2m96o+KqKe4z8U7h9D77/pFvNgW6cmi6c+XjUstADu5hiZYaYHJqP/MX3CieljKrxx+l9svfF4wd1MHELXgoTbFGYVU+kfFRzJYfBM0Vdr9wkEsRpsNMiSeIw/I+PsAY6nQHeZCKvwpXmVWaU8Sx15mBh5Ob16M6C6rVuz8o2BPWViYL7UOjvh3sc3W3E0DSjxkK7fkh+1ByqRfK0Ux/dR5L17itr4KZMOKIIYC7XV0tSEre/vyfZyvNC2+q0izi5rsMmCAfCdHuoLZ3lhgb8Fwptvlh/rrwP5oeWfPH2k8Ignfb3hpEUwNKEQHN+jRcVwScSdypQIZSzjqfdh5Vj
+use_temp_creds: false
