@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>syndicate-second-project-group</groupId>
-    <artifactId>syndicate-second-project</artifactId>
+    <artifactId>task02</artifactId>
     <version>1.0.0</version>
 
     <properties>
@@ -59,7 +59,7 @@
                 <version>${syndicate.java.plugin.version}</version>
                 <configuration>
                     <packages>
-                        <package>com.syndicatesecondproject</package>
+                        <package>com.task02</package>
                     </packages>
                     <fileName>${project.name}-${project.version}.jar</fileName>
                 </configuration>

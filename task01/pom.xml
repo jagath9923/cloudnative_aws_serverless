@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>syndicate-first-project-group</groupId>
-    <artifactId>syndicate-first-project</artifactId>
+    <artifactId>task01</artifactId>
     <version>1.0.0</version>
 
     <properties>
@@ -47,7 +47,7 @@
                 <version>${syndicate.java.plugin.version}</version>
                 <configuration>
                     <packages>
-                        <package>com.synsicatefirstproject</package>
+                        <package>com.task01</package>
                     </packages>
                     <fileName>${project.name}-${project.version}.jar</fileName>
                 </configuration>
