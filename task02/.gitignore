@@ -3,3 +3,4 @@ logs/
 
 /.idea/
 /target/
+/.syndicate-config-dev/**
